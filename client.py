@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import simpledialog, messagebox
 
 # 输入服务器地址和端口
-HOST = '127.0.0.1'
+HOST = '192.168.3.39'
 PORT = 12345
 
 class ChatClient:
